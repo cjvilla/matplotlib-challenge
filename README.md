@@ -1,0 +1,2 @@
+# matplotlib-challenge
+Data from a Pharmaceutical company specializing in potential treatments for squamous cell carcinoma was abstracted using pandas and matplotlib. Worked with a complete data set from the most recent animal study. The purpose of abstracting the data is to compare the performance of the company's drug of interest versus other treatment regimens using tables and figures for a technical report of the study.
