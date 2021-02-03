@@ -1,0 +1,7 @@
+Analysis
+
+1. Capomulin had a total count of 230, which is the most used drug in this study. Remicane came in second with a count of 228. 
+
+2. In terms of demographics, there was roughly an equal amount of females and males in this study- 49.8% were female and 50.2% were male. 
+
+3. The correlataion coefficient for mouse weight and average tumor volume for Capomulin was 0.84, which is a very strong corrrelation. This indicates a positive relationship between the two variables. 
